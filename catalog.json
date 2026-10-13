@@ -1,0 +1,1096 @@
+[
+  {
+    "description": "Acanthus and flower stems rising from a vase between two female chimeras with scaly tails and clawed feet.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "vase",
+      "leaf",
+      "flower",
+      "chimera",
+      "tail",
+      "claw"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "acanthus-vase-between-two-female-chimeras",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1946-250",
+    "png": "png/acanthus-vase-between-two-female-chimeras.png",
+    "webp": "webp/acanthus-vase-between-two-female-chimeras.webp",
+    "width": 2626,
+    "height": 5200,
+    "png_bytes": 23627856,
+    "webp_bytes": 15933468,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/acanthus-vase-between-two-female-chimeras.png",
+        "webp": "webp/128/acanthus-vase-between-two-female-chimeras.webp",
+        "width": 65,
+        "height": 128,
+        "png_bytes": 28147,
+        "webp_bytes": 17054
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/acanthus-vase-between-two-female-chimeras.png",
+        "webp": "webp/256/acanthus-vase-between-two-female-chimeras.webp",
+        "width": 129,
+        "height": 256,
+        "png_bytes": 96466,
+        "webp_bytes": 57296
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/acanthus-vase-between-two-female-chimeras.png",
+        "webp": "webp/512/acanthus-vase-between-two-female-chimeras.webp",
+        "width": 259,
+        "height": 512,
+        "png_bytes": 341355,
+        "webp_bytes": 205052
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/acanthus-vase-between-two-female-chimeras.png",
+        "webp": "webp/768/acanthus-vase-between-two-female-chimeras.webp",
+        "width": 388,
+        "height": 768,
+        "png_bytes": 728957,
+        "webp_bytes": 451904
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "A Vase between Two Chimeric Figures",
+      "object_identifier": "1946.250",
+      "date": "1553",
+      "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+      "record_url": "https://clevelandart.org/art/1946.250",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "9c0c33c67cecbe01b9a186c81a9a06bf3a505e95857b6fad9cb4f17a93f1e297",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1946.250/1946.250_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2805,
+      "height": 5394
+    },
+    "master_longest_dimension_cap": 5200,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "One complete connected grotesque ornament: the large central bearded mask, both lower fauns/tritons with their complete legs and scaled tails, the central eagle with both spread wings and talons, both small birds perched on the upper curved scrolls and all the foliate stems connecting them.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "bearded-mask-with-eagle-and-paired-fauns",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1922-498",
+    "png": "png/bearded-mask-with-eagle-and-paired-fauns.png",
+    "webp": "webp/bearded-mask-with-eagle-and-paired-fauns.webp",
+    "width": 1075,
+    "height": 1422,
+    "png_bytes": 3794984,
+    "webp_bytes": 2519434,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/bearded-mask-with-eagle-and-paired-fauns.png",
+        "webp": "webp/128/bearded-mask-with-eagle-and-paired-fauns.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 41278,
+        "webp_bytes": 27584
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/bearded-mask-with-eagle-and-paired-fauns.png",
+        "webp": "webp/256/bearded-mask-with-eagle-and-paired-fauns.webp",
+        "width": 194,
+        "height": 256,
+        "png_bytes": 149332,
+        "webp_bytes": 101960
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/bearded-mask-with-eagle-and-paired-fauns.png",
+        "webp": "webp/512/bearded-mask-with-eagle-and-paired-fauns.webp",
+        "width": 387,
+        "height": 512,
+        "png_bytes": 544096,
+        "webp_bytes": 347458
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/bearded-mask-with-eagle-and-paired-fauns.png",
+        "webp": "webp/768/bearded-mask-with-eagle-and-paired-fauns.webp",
+        "width": 581,
+        "height": 768,
+        "png_bytes": 1199425,
+        "webp_bytes": 771460
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Ornament Design with a Mask and an Eagle between Two Fauns Below",
+      "object_identifier": "1922.498",
+      "date": "1509",
+      "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+      "record_url": "https://clevelandart.org/art/1922.498",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "525b4b81db946a5000125dce34878167e1abe4cb80d2abf7424e57e6f2ff230f",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected Renaissance ornament. The source establishes no seamless cycle; no repeat or corner atlas is inferred. AI-assisted background extraction retains opaque illustrated pale surfaces; exact prompt and untouched original retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2119,
+      "height": 2796
+    },
+    "master_longest_dimension_cap": 1422,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "One complete connected grotesque ornament: the large central bearded animal-like mask, human upper torso, paired curling horned heads and scrolls, two upper seated figures, both lower children physically holding the curved foliate structures, and the smaller bottom human mask with its broad cape-shaped scroll. Preserve every limb and all connecting curls.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "bearded-mask-with-tritons-and-two-children",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1922-495",
+    "png": "png/bearded-mask-with-tritons-and-two-children.png",
+    "webp": "webp/bearded-mask-with-tritons-and-two-children.webp",
+    "width": 1049,
+    "height": 1435,
+    "png_bytes": 3553650,
+    "webp_bytes": 2284410,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/bearded-mask-with-tritons-and-two-children.png",
+        "webp": "webp/128/bearded-mask-with-tritons-and-two-children.webp",
+        "width": 94,
+        "height": 128,
+        "png_bytes": 40212,
+        "webp_bytes": 25952
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/bearded-mask-with-tritons-and-two-children.png",
+        "webp": "webp/256/bearded-mask-with-tritons-and-two-children.webp",
+        "width": 187,
+        "height": 256,
+        "png_bytes": 143326,
+        "webp_bytes": 93926
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/bearded-mask-with-tritons-and-two-children.png",
+        "webp": "webp/512/bearded-mask-with-tritons-and-two-children.webp",
+        "width": 374,
+        "height": 512,
+        "png_bytes": 514824,
+        "webp_bytes": 315662
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/bearded-mask-with-tritons-and-two-children.png",
+        "webp": "webp/768/bearded-mask-with-tritons-and-two-children.webp",
+        "width": 561,
+        "height": 768,
+        "png_bytes": 1120264,
+        "webp_bytes": 691658
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Ornament Design with a Mask, A Couple of Tritons, and Two Children Below",
+      "object_identifier": "1922.495",
+      "date": "1549",
+      "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+      "record_url": "https://clevelandart.org/art/1922.495",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "c3b6a09151d9701935fd47b9051791f5229b7e7a3611ee4e52beaa522ea505bd",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected Renaissance ornament. The source establishes no seamless cycle; no repeat or corner atlas is inferred. AI-assisted background extraction retains opaque illustrated pale surfaces; exact prompt and untouched original retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2691,
+      "height": 3580
+    },
+    "master_longest_dimension_cap": 1435,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pointed blue flower surrounded by upright rose petals, above a green calyx and two green leaves on a long stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "pink",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "blue-pointed-flower-with-rose-petals-on-upright-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/blue-pointed-flower-with-rose-petals-on-upright-stem.png",
+    "webp": "webp/blue-pointed-flower-with-rose-petals-on-upright-stem.webp",
+    "width": 791,
+    "height": 1856,
+    "png_bytes": 1230256,
+    "webp_bytes": 791718,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-pointed-flower-with-rose-petals-on-upright-stem.png",
+        "webp": "webp/128/blue-pointed-flower-with-rose-petals-on-upright-stem.webp",
+        "width": 55,
+        "height": 128,
+        "png_bytes": 11561,
+        "webp_bytes": 9816
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-pointed-flower-with-rose-petals-on-upright-stem.png",
+        "webp": "webp/256/blue-pointed-flower-with-rose-petals-on-upright-stem.webp",
+        "width": 109,
+        "height": 256,
+        "png_bytes": 36751,
+        "webp_bytes": 28118
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-pointed-flower-with-rose-petals-on-upright-stem.png",
+        "webp": "webp/512/blue-pointed-flower-with-rose-petals-on-upright-stem.webp",
+        "width": 218,
+        "height": 512,
+        "png_bytes": 126879,
+        "webp_bytes": 92248
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-pointed-flower-with-rose-petals-on-upright-stem.png",
+        "webp": "webp/768/blue-pointed-flower-with-rose-petals-on-upright-stem.webp",
+        "width": 327,
+        "height": 768,
+        "png_bytes": 264512,
+        "webp_bytes": 180674
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1856,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete finite painted frame with blue and white curling vines, red-gold outer and inner bands, two upper red-gold finials and two lower blue leaf flourishes. Part of the Greek Psalter blue-vine frame set.",
+    "categories": [
+      "floral",
+      "scrollwork",
+      "geometric"
+    ],
+    "subjects": [
+      "frame",
+      "vine",
+      "leaf",
+      "curl",
+      "gold"
+    ],
+    "facing": "front",
+    "colors": [
+      "blue",
+      "white",
+      "red",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-blue-vine-and-red-gold-miniature-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1950-154",
+    "png": "png/finite-blue-vine-and-red-gold-miniature-frame.png",
+    "webp": "webp/finite-blue-vine-and-red-gold-miniature-frame.webp",
+    "width": 3769,
+    "height": 3137,
+    "png_bytes": 5879706,
+    "webp_bytes": 3935486,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-blue-vine-and-red-gold-miniature-frame.png",
+        "webp": "webp/128/finite-blue-vine-and-red-gold-miniature-frame.webp",
+        "width": 128,
+        "height": 107,
+        "png_bytes": 12431,
+        "webp_bytes": 11674
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-blue-vine-and-red-gold-miniature-frame.png",
+        "webp": "webp/256/finite-blue-vine-and-red-gold-miniature-frame.webp",
+        "width": 256,
+        "height": 213,
+        "png_bytes": 44268,
+        "webp_bytes": 40042
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-blue-vine-and-red-gold-miniature-frame.png",
+        "webp": "webp/512/finite-blue-vine-and-red-gold-miniature-frame.webp",
+        "width": 512,
+        "height": 426,
+        "png_bytes": 155113,
+        "webp_bytes": 123328
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-blue-vine-and-red-gold-miniature-frame.png",
+        "webp": "webp/768/finite-blue-vine-and-red-gold-miniature-frame.webp",
+        "width": 768,
+        "height": 639,
+        "png_bytes": 325428,
+        "webp_bytes": 253616
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Greek Psalter and New Testament",
+      "object_identifier": "1950.154",
+      "date": "1084",
+      "record_url": "https://clevelandart.org/art/1950.154",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite original painted frame, with its true empty center and four source corner flourishes. It can be placed directly as a fixed image; no seamless or scalable repeat atlas is claimed for this whole frame. Original native scan pixels, paint wear, colors and proportions retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-1950-154-set",
+        "name": "Greek Psalter blue-vine frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4540,
+      "height": 6787
+    },
+    "master_longest_dimension_cap": 3769,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "One complete tall connected ornament: the central decorated shaft and vase, every upper flower and leaf curl, both pairs of fantastic fish facing outward from the lower scrolls, and every connecting stem.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "scroll",
+      "leaf",
+      "ornament"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "fish-and-flower-candelabrum-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1922-128",
+    "png": "png/fish-and-flower-candelabrum-scroll.png",
+    "webp": "webp/fish-and-flower-candelabrum-scroll.webp",
+    "width": 685,
+    "height": 1989,
+    "png_bytes": 2914314,
+    "webp_bytes": 1983004,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fish-and-flower-candelabrum-scroll.png",
+        "webp": "webp/128/fish-and-flower-candelabrum-scroll.webp",
+        "width": 44,
+        "height": 128,
+        "png_bytes": 20478,
+        "webp_bytes": 12874
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fish-and-flower-candelabrum-scroll.png",
+        "webp": "webp/256/fish-and-flower-candelabrum-scroll.webp",
+        "width": 88,
+        "height": 256,
+        "png_bytes": 72749,
+        "webp_bytes": 44998
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fish-and-flower-candelabrum-scroll.png",
+        "webp": "webp/512/fish-and-flower-candelabrum-scroll.webp",
+        "width": 176,
+        "height": 512,
+        "png_bytes": 250416,
+        "webp_bytes": 159772
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fish-and-flower-candelabrum-scroll.png",
+        "webp": "webp/768/fish-and-flower-candelabrum-scroll.webp",
+        "width": 264,
+        "height": 768,
+        "png_bytes": 516216,
+        "webp_bytes": 332174
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Ornament Design with Fishes",
+      "object_identifier": "1922.128",
+      "date": "1552",
+      "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+      "record_url": "https://clevelandart.org/art/1922.128",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "88dc8f479e5d525f920c8a1dfe8e38eabee0359bbca68f941049fcd682f2e865",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Finite connected Renaissance ornament. The source establishes no seamless cycle; no repeat or corner atlas is inferred. AI-assisted background extraction retains opaque illustrated pale surfaces; exact prompt and untouched original retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 1859,
+      "height": 5052
+    },
+    "master_longest_dimension_cap": 1989,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete finite polychrome floral frame with knotted medallions, stars, pendant ornaments and 47 inventoried peripheral gold sunbursts; part of the Beffi Coronation frame set.",
+    "categories": [
+      "floral",
+      "scrollwork",
+      "knotwork",
+      "geometric"
+    ],
+    "subjects": [
+      "frame",
+      "flower",
+      "leaf",
+      "knot",
+      "medallion",
+      "star",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "cream",
+      "gold",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "fixed-polychrome-floral-frame-with-knotted-medallions",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1953-24",
+    "png": "png/fixed-polychrome-floral-frame-with-knotted-medallions.png",
+    "webp": "webp/fixed-polychrome-floral-frame-with-knotted-medallions.webp",
+    "width": 4452,
+    "height": 6119,
+    "png_bytes": 12532102,
+    "webp_bytes": 9473744,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fixed-polychrome-floral-frame-with-knotted-medallions.png",
+        "webp": "webp/128/fixed-polychrome-floral-frame-with-knotted-medallions.webp",
+        "width": 93,
+        "height": 128,
+        "png_bytes": 17375,
+        "webp_bytes": 13542
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fixed-polychrome-floral-frame-with-knotted-medallions.png",
+        "webp": "webp/256/fixed-polychrome-floral-frame-with-knotted-medallions.webp",
+        "width": 186,
+        "height": 256,
+        "png_bytes": 55208,
+        "webp_bytes": 43680
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fixed-polychrome-floral-frame-with-knotted-medallions.png",
+        "webp": "webp/512/fixed-polychrome-floral-frame-with-knotted-medallions.webp",
+        "width": 373,
+        "height": 512,
+        "png_bytes": 172195,
+        "webp_bytes": 137678
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fixed-polychrome-floral-frame-with-knotted-medallions.png",
+        "webp": "webp/768/fixed-polychrome-floral-frame-with-knotted-medallions.webp",
+        "width": 559,
+        "height": 768,
+        "png_bytes": 337735,
+        "webp_bytes": 271872
+      }
+    ],
+    "derivation": "mixed-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from an Antiphonary: Coronation of the Virgin",
+      "object_identifier": "1953.24",
+      "date": "1400s",
+      "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+      "record_url": "https://clevelandart.org/art/1953.24",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+      "method": "mixed-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Beffi Coronation frame set. Complete finite original floral frame with 47 inventoried peripheral gold sunbursts and their original fine black rays. Source-native painted color retained; ray alpha and ink tone separated from parchment by measured native ink coverage. Transparent centre and actual openings; no seamless repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-1953-24-set",
+        "name": "Beffi Coronation frame"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4595,
+      "height": 6459
+    },
+    "master_longest_dimension_cap": 6119,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Thin gold S-curled vine with a small trefoil and curled side leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "vine",
+      "leaf",
+      "trefoil",
+      "curl"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "gold-curled-leaf-vine-from-initial",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/gold-curled-leaf-vine-from-initial.png",
+    "webp": "webp/gold-curled-leaf-vine-from-initial.webp",
+    "width": 488,
+    "height": 680,
+    "png_bytes": 284754,
+    "webp_bytes": 194162,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-curled-leaf-vine-from-initial.png",
+        "webp": "webp/128/gold-curled-leaf-vine-from-initial.webp",
+        "width": 92,
+        "height": 128,
+        "png_bytes": 19690,
+        "webp_bytes": 14072
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-curled-leaf-vine-from-initial.png",
+        "webp": "webp/256/gold-curled-leaf-vine-from-initial.webp",
+        "width": 184,
+        "height": 256,
+        "png_bytes": 59488,
+        "webp_bytes": 45734
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-curled-leaf-vine-from-initial.png",
+        "webp": "webp/512/gold-curled-leaf-vine-from-initial.webp",
+        "width": 367,
+        "height": 512,
+        "png_bytes": 187853,
+        "webp_bytes": 142036
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 680,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An original L-shaped oak-leaf flourish with large curling leaves and a long descending stem.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "oak",
+      "leaf",
+      "scroll",
+      "corner"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "oak-leaf-corner-flourish",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1952-100",
+    "png": "png/oak-leaf-corner-flourish.png",
+    "webp": "webp/oak-leaf-corner-flourish.webp",
+    "width": 1091,
+    "height": 1386,
+    "png_bytes": 2176776,
+    "webp_bytes": 1415616,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/oak-leaf-corner-flourish.png",
+        "webp": "webp/128/oak-leaf-corner-flourish.webp",
+        "width": 101,
+        "height": 128,
+        "png_bytes": 28050,
+        "webp_bytes": 17264
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/oak-leaf-corner-flourish.png",
+        "webp": "webp/256/oak-leaf-corner-flourish.webp",
+        "width": 202,
+        "height": 256,
+        "png_bytes": 96802,
+        "webp_bytes": 59052
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/oak-leaf-corner-flourish.png",
+        "webp": "webp/512/oak-leaf-corner-flourish.webp",
+        "width": 403,
+        "height": 512,
+        "png_bytes": 326052,
+        "webp_bytes": 203516
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/oak-leaf-corner-flourish.png",
+        "webp": "webp/768/oak-leaf-corner-flourish.webp",
+        "width": 605,
+        "height": 768,
+        "png_bytes": 709903,
+        "webp_bytes": 447302
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "An Oak Leaf Ornament",
+      "object_identifier": "1952.100",
+      "date": "c. 1470",
+      "artist": "Master W with the Key (Netherlandish, active about 1465–1490)",
+      "record_url": "https://clevelandart.org/art/1952.100",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "0cb346b2ff82a2f89bde6063714edca04ea9c292611c0c50cdfa635f4f9559e6",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4030,
+      "height": 5113
+    },
+    "master_longest_dimension_cap": 1386,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Upright winding pea vine with six long green pods, paired folded leaves and thin connected stalks. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "pea",
+      "pod",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "upright-pea-vine-with-six-long-pods",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-a",
+    "png": "png/upright-pea-vine-with-six-long-pods.png",
+    "webp": "webp/upright-pea-vine-with-six-long-pods.webp",
+    "width": 1532,
+    "height": 7109,
+    "png_bytes": 9303213,
+    "webp_bytes": 6261840,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upright-pea-vine-with-six-long-pods.png",
+        "webp": "webp/128/upright-pea-vine-with-six-long-pods.webp",
+        "width": 28,
+        "height": 128,
+        "png_bytes": 9241,
+        "webp_bytes": 7140
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upright-pea-vine-with-six-long-pods.png",
+        "webp": "webp/256/upright-pea-vine-with-six-long-pods.webp",
+        "width": 55,
+        "height": 256,
+        "png_bytes": 28281,
+        "webp_bytes": 21814
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upright-pea-vine-with-six-long-pods.png",
+        "webp": "webp/512/upright-pea-vine-with-six-long-pods.webp",
+        "width": 110,
+        "height": 512,
+        "png_bytes": 91150,
+        "webp_bytes": 73644
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upright-pea-vine-with-six-long-pods.png",
+        "webp": "webp/768/upright-pea-vine-with-six-long-pods.webp",
+        "width": 166,
+        "height": 768,
+        "png_bytes": 183946,
+        "webp_bytes": 152214
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)",
+      "object_identifier": "1999.136.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto) (cma-1999-136-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8816,
+      "height": 10607
+    },
+    "master_longest_dimension_cap": 7109,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
